@@ -79,6 +79,7 @@ http://localhost:8000/static/index.html
 <img width="521" height="262" alt="image" src="https://github.com/user-attachments/assets/f495eaba-8c8e-4fcb-a5ad-0b36178ad7bd" />
 
 #Вывод
+
 ##В результате выполнения практической работы было создано веб-приложение "Каталог товаров", соответствующее всем поставленным требованиям:
 
 ✅ Разработан сервер на FastAPI с маршрутами /products/all и /products/get/{id}
@@ -100,6 +101,7 @@ http://localhost:8000/static/index.html
 
 
 Проект успешно запускается и работает локально. Код загружен на GitHub и доступен для проверки.
+
 
 
 
