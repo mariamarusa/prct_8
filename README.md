@@ -100,7 +100,7 @@ http://localhost:8000/static/index.html
 <img width="1837" height="832" alt="image" src="https://github.com/user-attachments/assets/6945f8b2-b50e-44ae-9c46-f666ad628fa4" />
 
 
-Проект успешно запускается и работает локально. Код загружен на GitHub и доступен для проверки.
+
 
 
 
