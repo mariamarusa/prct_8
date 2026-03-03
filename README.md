@@ -11,9 +11,14 @@
 
 | Технология | Назначение |
 |------------|------------|
-| **FastAPI** | Создание серверной части и API |
-| **SQLAlchemy** | ORM для работы с БД |
-| **SQLite3** | Хранение данных |
-| **HTML/CSS** | Вёрстка и стилизация |
-| **JavaScript** | Клиентская логика |
-| **Uvicorn** | ASGI сервер |
+| **FastAPI** | Серверная часть |
+| **SQLite** | База данных |
+| **HTML/CSS/JS** | Интерфейс |
+
+
+### 1. Подготовка
+```bash
+mkdir catalog_project
+cd catalog_project
+python -m venv venv
+venv\Scripts\activate
