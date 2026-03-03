@@ -15,6 +15,8 @@
 | **SQLite** | База данных |
 | **HTML/CSS/JS** | Интерфейс |
 
+ ##Структура
+```text
 catalog_project/
 │
 ├── main.py                 # сервер
@@ -27,7 +29,7 @@ catalog_project/
     ├── index.html
     ├── style.css
     └── script.js
-
+```
     
 ### 1. Подготовка
 ```bash
@@ -61,6 +63,7 @@ PS C:\Users\user\catalog_project> python -m uvicorn main:app --reload
 ```text
 http://localhost:8000/static/index.html
 ```
+
 
 
 
