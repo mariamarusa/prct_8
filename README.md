@@ -65,7 +65,29 @@ http://localhost:8000/static/index.html
 ```
 
 
+###Скриншоты работы
+####1. Главная страница каталога
+<img width="1616" height="516" alt="image" src="https://github.com/user-attachments/assets/87028f59-3754-4be9-b589-6ef88040ed25" />
+####2. Фильтрация
+<img width="1529" height="332" alt="image" src="https://github.com/user-attachments/assets/b7e87c21-16a0-4989-a79e-f8117555ecb7" />
 
+####3. Детальная информация о товаре 
+<img width="521" height="262" alt="image" src="https://github.com/user-attachments/assets/f495eaba-8c8e-4fcb-a5ad-0b36178ad7bd" />
+
+#Вывод
+##В результате выполнения практической работы было создано веб-приложение "Каталог товаров", соответствующее всем поставленным требованиям:
+
+✅ Разработан сервер на FastAPI с маршрутами /products/all и /products/get/{id}
+
+✅ Создана база данных SQLite3 с двумя связанными таблицами
+
+✅ Реализованы миграции для создания и заполнения БД
+
+✅ Разработан интерфейс на HTML, CSS и JavaScript
+
+✅ Настроена документация Swagger UI
+
+Проект успешно запускается и работает локально. Код загружен на GitHub и доступен для проверки.
 
 
 
